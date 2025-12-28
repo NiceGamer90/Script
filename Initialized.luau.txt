@@ -809,7 +809,7 @@ function Library:Window(options)
 		Banner_1.BorderSizePixel = 0
 		Banner_1.Size = UDim2.new(1, 0,1, 0)
 		Banner_1.Image = "rbxassetid://125411502674016"
-		Banner_1.ImageColor3 = Color3.fromRGB(255,0,128)
+		Banner_1.ImageColor3 = Color3.fromRGB(20, 52, 164)
 		Banner_1.ScaleType = Enum.ScaleType.Crop
 
 		UICorner_2.Parent = Banner_1
